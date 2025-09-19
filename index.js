@@ -74,4 +74,4 @@ function verificarFimDeJogo(total, time){
 }
 
 
-
+    
