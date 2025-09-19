@@ -5,14 +5,14 @@ body {
   background-image: url("https://i.pinimg.com/1200x/2c/91/ce/2c91ce443b48cb1c6ecdef1671b72f58.jpg");
   background-size: cover;
   font-family: Josefin Sans, sans-serif;
-  height: 100dvh;
+  height: 100vh;
   font-weight: bold;
   text-align: center;
   display: flex;
 }
 
 .container {
-  background-color: rgba(255, 255, 255, 0.4); /* deixa mais transparente */
+  background-color: rgba(31, 31, 31, 0.8);
   backdrop-filter: blur(10px); /* efeito vidro fosco */
   -webkit-backdrop-filter: blur(10px); /* para Safari */
   width: 45%;
