@@ -12,9 +12,6 @@ body {
 }
 
 .container {
-  background-color: rgba(31, 31, 31, 0.8); /* deixa mais transparente */
-  backdrop-filter: blur(10px); /* efeito vidro fosco */
-  -webkit-backdrop-filter: blur(10px); /* para Safari */
   width: 90%;
   margin: auto;
   padding: 20px;
