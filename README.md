@@ -15,4 +15,4 @@
 9. textContent
 ##
 ### Description:
-This is my first project learning JavaScript! It's a simple program that counts our clicks, so I adpted it in way to be used as a Truco (card game) counter.
+This is my first project learning JavaScript! It's a simple program that counts our clicks, so I adapted it in way to be used as a Truco (card game) counter.
